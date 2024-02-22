@@ -1,0 +1,8 @@
+beckyShare/__pycache__
+migrations/
+
+file_share/__pycache__
+
+uploads/
+
+db.sqlite3
